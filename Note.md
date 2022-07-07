@@ -10,7 +10,11 @@ This Project is my research with Professor Suman Banerjee
 
 
 Instructor: PHD.Suman Banerjee(Associate Professor) at Stevens Institute of Technology 
+
             Corporate Finance Track Chair – Financial Management Association Senior member
+            
             FMA – Financial Management Association Member
+            
             AFA – American Finance Association Member
+            
             WFA – Western Finance Association Member
