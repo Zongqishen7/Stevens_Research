@@ -1,4 +1,5 @@
 This Project is my research with Professor Suman Banerjee
+
  Innovation in Financial Product to Mitigate Short/Medium Term Catastrophic Economic Impacts: 
  One of the primary roles of financial markets is to share risks and in the process mitigate the extreme impacts of climate risk. 
  The natural question arises: why aren’t markets already playing a bigger role in the systemic risks and uncertainties created by global climate challenges?
